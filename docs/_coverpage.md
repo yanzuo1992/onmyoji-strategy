@@ -1,4 +1,5 @@
-![logo](_media/logo.png)
+<!-- ![logo](_media/logo.png) -->
+<img src="img/山兔.png" style="zoom:50%">
 
 # 阴阳师-长生殿-入寮萌新攻略 <small>1.0.0</small>
 
